@@ -22,8 +22,8 @@ Portfolio personnel présentant mes projets et compétences en développement we
 
 ## Contact
 
-LinkedIn: <www.linkedin.com/in/alexandre-dincq-a8555b280>
-GitHub: <https://github.com/dagarbolino>
+- LinkedIn: <www.linkedin.com/in/alexandre-dincq-a8555b280>
+- GitHub: <https://github.com/dagarbolino>
 
 ## Licence
 
